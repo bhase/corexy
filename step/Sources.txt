@@ -1,0 +1,3 @@
+LMEE12 and SFH12 -> Dold https://www.dold-mechatronik.de/
+Stepper motor -> Grabcad https://grabcad.com/library/stepper-motor-wantai-42byghw609l20p1-x2-1
+E3D V6 -> Grabcad https://grabcad.com/library/e3d-v6-hotend-1-75mm-bowden-1
